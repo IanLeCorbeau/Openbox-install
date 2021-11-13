@@ -1,0 +1,20 @@
+# Compositor
+picom -b &
+
+# Wallpaper
+feh --bg-scale ~/Pictures/Wallpapers/debbox-wallpaper.png &
+
+# Keybindings
+# xbindkeys &
+
+# Notifications
+dunst &
+
+# Polkit
+/usr/bin/lxpolkit &
+
+# Conky
+conky -b &
+
+# Panel
+tint2 &

@@ -1,0 +1,31 @@
+## Launching Applications
+alt + t			st terminal
+alt + b			firefox-esr
+alt + v			vlc media player
+alt + f			pcmanfm
+alt + p			dmenu
+alt + m			openbox menu
+
+## Window Manipulation
+super + up		move window up
+super + right		move window right
+super + left		move window left
+super + down		move window down
+
+super + shift + up	grow vertically
+super + shift + right	grow horizontally
+super + shift + down	shrink vertically
+super + shift + left	shrink horizontally
+
+super + c		maximize window
+super + a		move/resize to left half of screen
+super + l		move/resize to right half of screen	
+super + s		move/resize to top left corner of screen
+super + k		move/resize to the top right corner
+super + d		move/resize to the bottom left corner
+super + j		move/resize to the bottom right corner
+super + f		move/resize to the top half of the screen
+super + h		move/resize to the bottom half of the screen
+
+super + shift + v	tile the focused and previously focused windows vertically
+super + shift + h	tile the focused and previously focused windows horizontally

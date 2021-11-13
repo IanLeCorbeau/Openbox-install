@@ -1,0 +1,3 @@
+alsa-utils apt-utils arc-theme build-essential conky dunst feh firefox-esr fonts-linuxlibertine git libx11-dev libxft-dev libxinerama-dev libnotify-bin lxappearance lxmenu-data lxtask man-db menu mousepad network-manager obconf openbox-menu openbox papirus-icon-theme picom scrot tint2 udisks2 ufw vim vlc x11-utils x11-xserver-utils xdg-user-dirs xdg-utils xdotool xinit xserver-xorg-core
+
+pcmanfm (without recommends)
